@@ -45,7 +45,8 @@ x86_64 の場合、使用している pytorch が AVX 前提なので、 AVX 非
 文化庁の資料 [AIと著作権について](https://www.bunka.go.jp/seisaku/chosakuken/aiandcopyright.html)
 
 ### インストール
-zipファイルをダウンロードし、ダウンロードしたファイルを右クリックで展開してください。
+Hugging Faceから[zipファイル](https://huggingface.co/asfdrwe/waiDMD2/resolve/main/sdcpp-gradio-windows.zip?download=true)をダウンロードし、
+ダウンロードしたファイルを右クリックで展開してください。
 
 ### 実行
 sdcpp-gradio フォルダを開き、sdcpp-gradio-safe.exe もしくは sdcpp-gradio.exe をダブルクリックしてください。
@@ -54,7 +55,7 @@ Windows ターミナルが起動し、自動的にブラウザが開かれます
 
 『生成した画像を日本語の文章で入力』欄に生成したい画像を文章でいれてください。
 
-例: 少女が教室でこちらを向いて微笑んでいる全身画像。
+例: 少女が微笑む画像。
 
 解像度を選んでください。
 
