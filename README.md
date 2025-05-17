@@ -79,7 +79,7 @@ Vulkan 版から差し替えてください。CPU 用なら生成時間がかか
 ## macOS 版
 
 ### インストール
-zipファイルをダウンロードし、ダウンロードしたファイルを右クリックで展開してください。
+Hugging faceから[zipファイル](https://huggingface.co/asfdrwe/waiDMD2/resolve/main/sdcpp-gradio-mac.zip?download=true)をダウンロードし、ダウンロードしたファイルを右クリックで展開してください。
 
 そのままでは GateKeeper によるセキュリティチェックに引っかかるので、
 こちらのツールで検疫属性を削除してください。
