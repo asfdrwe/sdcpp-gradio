@@ -71,12 +71,6 @@ sd.exe と stable-diffusion.dll を sdcpp-gradio フォルダに上書きコピ�
 Vulkan 版から差し替えてください。CPU 用なら生成時間がかかりますが動くはずです
 (Ryzen 5600 で 12 分、Core i7100 で36分かかりました)
 
-### 注
-[stable-diffusion-cpp-python](https://github.com/william-murray1204/stable-diffusion-cpp-python)という Python モジュール経由で
-生成する方法もあります。
-ただ、Fedora 42 + Ryzen 5600G + Vulkan で試したところ、繰り返し画像生成すると
-2回目以降生成画像がおかしくなる問題があったので、使用していません。
-
 ## 著作権
 
 Copyright (c) 2025 asfdrwe <asfdrwe@gmail.com>
