@@ -18,7 +18,7 @@ AMD や Intel のグラフィックボードや CPU 内蔵 GPU などでも動�
 
 | 動作環境         | 時間 |
 |--------------|------|
-| Windows + Ryzen 5600 + Geforce 3060 12GB | 30秒〜1分（初回はモデルがキャッシュされていないので+1分) |
+| Windows + Ryzen 5600 + Geforce 3060 12GB | 30秒〜1分（初回はモデルがキャッシュされていないので+1分かかる場合があります) |
 | M4 Mac mini | 2 分 |
 | Linux Fedora 42 + Ryzen 5600G (内蔵GPU) | 6分 |
 | Linux Fedora 42 + Core i7100 (内蔵GPU) | VAE デコード時にエラーが出る |
@@ -51,7 +51,8 @@ Hugging Faceから[zipファイル](https://huggingface.co/asfdrwe/waiDMD2/resol
 ### 実行
 sdcpp-gradio フォルダを開き、sdcpp-gradio-safe.exe もしくは sdcpp-gradio.exe をダブルクリックしてください。
 
-実行の際に警告が出る場合がありますが、そのまま詳細を押してから実行を押してください。
+実行の際にWindowsによってPCが保護されましたという警告が出る場合がありますが、そのまま詳細情報を
+押して実行を押してください。
 
 Windows ターミナルが起動し、自動的にブラウザが開かれます。
 
