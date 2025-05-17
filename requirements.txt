@@ -1,0 +1,7 @@
+gradio
+protobuf
+# pytorch
+sentencepiece
+transformers
+pyinstaller
+zstandard
