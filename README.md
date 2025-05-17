@@ -51,7 +51,10 @@ x86_64 の場合、使用している pytorch が AVX 前提なので、 AVX 非
 ダウンロードしたファイルを右クリックで展開してください。
 
 ### 実行
-sdcpp-gradio-windows フォルダを開き、sdcpp-gradio-safe.exe もしくは sdcpp-gradio.exe をダブルクリックしてください。
+sdcpp-gradio フォルダを開き、sdcpp-gradio-safe.exe もしくは sdcpp-gradio.exe をダブルクリックしてください。
+
+実行の際にWindowsによってPCが保護されましたという警告が出る場合がありますが、そのまま詳細情報を
+押して実行を押してください。
 
 Windows ターミナルが起動し、自動的にブラウザが開かれます。
 
@@ -89,14 +92,7 @@ sdcpp-gradio フォルダを開き、sdcpp-gradio-safe.command もしくは sdcp
 (検疫属性を削除していない場合、警告が出て実行できないので、設定から実行を許可し
 もう一度ダブルクリックしてください。)
 
-『生成した画像を日本語の文章で入力』欄に生成したい画像を文章でいれてください。
-
-例: 少女が教室でこちらを向いて微笑んでいる全身画像。
-
-解像度を選んでください。
-
-生成を押ししばらくすると右の『output』に画像が生成されます。生成されたファイルは
-sdcpp-gradio フォルダの output フォルダに『年月日時分秒.png』形式(例: 20250514192813.png)で保存されます。
+あとはWindows版と同じように操作することで画像を生成できます。
 
 #### 終了
 ブラウザを閉じ、ターミナルを閉じてください。
@@ -108,7 +104,7 @@ sdcpp-gradio フォルダの output フォルダに『年月日時分秒.png』�
 git で本体をダウンロードしてください。
 
 ```
-git clone 
+git clone https://github.com/asfdrwe/sdcpp-gradio
 cd sd-gradio
 ```
 
@@ -159,7 +155,7 @@ python sd-gradio.py
 
 で実行してください。
 
-使い方は Windows 版や macOS 版と同じです。
+あとはWindows版と同じように操作することで画像を生成できます。
 
 ## macOS でのビルド
 
