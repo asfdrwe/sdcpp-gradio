@@ -45,7 +45,7 @@ x86_64 の場合、使用している pytorch が AVX 前提なので、 AVX 非
 文化庁の資料 [AIと著作権について](https://www.bunka.go.jp/seisaku/chosakuken/aiandcopyright.html)
 
 ### インストール
-Hugging Faceから[zipファイル](https://huggingface.co/asfdrwe/waiDMD2/resolve/main/sdcpp-gradio-windows.zip?download=true)をダウンロードし、
+Hugging Faceから[zipファイル](https://huggingface.co/asfdrwe/waiDMD2/resolve/main/sdcpp-gradio.zip?download=true)をダウンロードし、
 ダウンロードしたファイルを右クリックで展開してください。
 
 ### 実行
