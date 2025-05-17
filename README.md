@@ -47,10 +47,11 @@ x86_64 の場合、使用している pytorch が AVX 前提なので、 AVX 非
 ## Windows 版
 
 ### インストール
-zipファイルをダウンロードし、ダウンロードしたファイルを右クリックで展開してください。
+[zipファイル](https://huggingface.co/asfdrwe/waiDMD2/resolve/main/sdcpp-gradio-windows.zip?download=true)をダウンロードし、
+ダウンロードしたファイルを右クリックで展開してください。
 
 ### 実行
-sdcpp-gradio フォルダを開き、sdcpp-gradio-safe.exe もしくは sdcpp-gradio.exe をダブルクリックしてください。
+sdcpp-gradio-windows フォルダを開き、sdcpp-gradio-safe.exe もしくは sdcpp-gradio.exe をダブルクリックしてください。
 
 Windows ターミナルが起動し、自動的にブラウザが開かれます。
 
