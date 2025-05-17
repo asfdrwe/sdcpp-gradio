@@ -51,6 +51,8 @@ Hugging Faceから[zipファイル](https://huggingface.co/asfdrwe/waiDMD2/resol
 ### 実行
 sdcpp-gradio フォルダを開き、sdcpp-gradio-safe.exe もしくは sdcpp-gradio.exe をダブルクリックしてください。
 
+実行の際に警告が出る場合がありますが、そのまま詳細を押してから実行を押してください。
+
 Windows ターミナルが起動し、自動的にブラウザが開かれます。
 
 『生成した画像を日本語の文章で入力』欄に生成したい画像を文章でいれてください。
