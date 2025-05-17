@@ -47,7 +47,7 @@ x86_64 の場合、使用している pytorch が AVX 前提なので、 AVX 非
 ## Windows 版
 
 ### インストール
-[zipファイル](https://huggingface.co/asfdrwe/waiDMD2/resolve/main/sdcpp-gradio-windows.zip?download=true)をダウンロードし、
+[zipファイル](https://huggingface.co/asfdrwe/waiDMD2/resolve/main/sdcpp-gradio.zip?download=true)をダウンロードし、
 ダウンロードしたファイルを右クリックで展開してください。
 
 ### 実行
