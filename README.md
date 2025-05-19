@@ -19,6 +19,7 @@ AMD や Intel のグラフィックボードや CPU 内蔵 GPU などでも動�
 | 動作環境         | 時間 |
 |--------------|------|
 | Windows + Ryzen 5600 + Geforce 3060 12GB | 30秒〜1分 |
+| Windows + Core i5 1235u (内蔵GPU) | 11分 |
 | M4 Mac mini | 2 分 |
 | Linux Fedora 42 + Ryzen 5600G (内蔵GPU) | 6分 |
 | Linux Fedora 42 + Core i7100 (内蔵GPU) | VAE デコード時にエラーが出る |
